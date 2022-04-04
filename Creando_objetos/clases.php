@@ -30,7 +30,7 @@ class Persona {
     }
 
 }
-//ola
+
 
 // PERSONA 1
 # Aqui estamos creando un objeto de tipo de persona, es decir, contendra las propiedades que ya contenia Persona
