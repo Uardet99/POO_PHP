@@ -11,7 +11,6 @@ if ($_SESSION) {
 
 ?>
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +20,6 @@ if ($_SESSION) {
     <title>Pagina 2</title>
 </head>
 <body>
-   <!--  <h1>Hola, <?php echo $_SESSION['nombre']?> </h1> -->
     <a href="Cerrar.php">Cerrar Sesion</a>
 </body>
 </html>

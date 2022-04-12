@@ -3,10 +3,6 @@
 session_start(); // Crea una sesion o reanuda la actual basada en un identificador de sesion pasad mediante una peticio GET o POST
 $_SESSION['nombre'] = 'Carlos';
 
-
-
-
-
 ?>
 
 <!DOCTYPE html>
